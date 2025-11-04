@@ -11,5 +11,5 @@
 - Control LED with button.
 
 ## 💭 Note
-First week done! GPIO made sense after checking datasheet.
+First week done! GPIO made sense after checking datasheet. Fighting
 
